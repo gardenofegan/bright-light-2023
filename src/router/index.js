@@ -26,6 +26,12 @@ const router = createRouter({
       name: "directions",
       component: Directions,
     },
+    {
+      path: "/:catchAll(.*)",
+      name: "NotFound",
+      component: PresentationView,
+      redirect: "/"
+    }
   ],
 });
 
