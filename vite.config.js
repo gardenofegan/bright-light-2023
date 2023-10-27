@@ -11,7 +11,6 @@ export default defineConfig({
       "@": fileURLToPath(new URL("./src", import.meta.url)),
     },
   },
-  base: '/bright-light-2023/',
   build: {
     outDir: './docs'
   }
