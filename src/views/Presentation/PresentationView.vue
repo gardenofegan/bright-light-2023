@@ -23,7 +23,7 @@ onUnmounted(() => {
 </script>
 
 <template>
-  <video id="background-video" autoplay loop muted poster="@/assets/img/bright-lights-background-image.png">
+  <video id="background-video" autoplay loop muted="muted" poster="@/assets/img/bright-lights-background-image.png">
         <source src="@/assets/video/bright-lights-optimized.mp4" type="video/mp4">
       </video>
   <DefaultNavbar
