@@ -54,6 +54,7 @@ onUnmounted(() => {
             <li>Badinghaus Construction & Trinity Design & Remodel</li>
             <li>FCN Bank</li>
             <li>St Teresa K of C Council 14862</li>
+            <li>Sub Station II</li>
           </ul>
         </div>
         <div class="col-lg-3">
