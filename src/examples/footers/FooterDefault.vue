@@ -53,7 +53,7 @@ defineProps({
         items: [
           {
             name: "About",
-            href: "/about"
+            href: "/about-us"
           },
           {
             name: "Sponsors",
@@ -106,9 +106,9 @@ defineProps({
           <h6 class="text-sm">{{ name }}</h6>
           <ul class="flex-column ms-n3 nav">
             <li class="nav-item" v-for="item of items" :key="item.name">
-              <a class="nav-link" :href="item.href">
+              <RouterLink class="nav-link" :to="item.href">
                 {{ item.name }}
-              </a>
+              </RouterLink>
             </li>
           </ul>
         </div>

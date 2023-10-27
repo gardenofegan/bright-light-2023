@@ -16,9 +16,9 @@ const props = defineProps({
     color: String,
     label: String,
     default: () => ({
-      route: "https://www.creative-tim.com/product/vue-material-kit",
+      route: "https://brightlightsindiana.com",
       color: "bg-gradient-success",
-      label: "Free Download"
+      label: "Welcome"
     })
   },
   transparent: {
@@ -137,12 +137,12 @@ watch(
         "
         to="/"
         rel="tooltip"
-        title="Designed and Coded by Creative Tim"
+        title="Bright Lights"
         data-placement="bottom"
       >
         Bright Lights
       </RouterLink>
-      <button
+      <!-- <button
         class="navbar-toggler shadow-none ms-2"
         type="button"
         data-bs-toggle="collapse"
@@ -156,9 +156,9 @@ watch(
           <span class="navbar-toggler-bar bar2"></span>
           <span class="navbar-toggler-bar bar3"></span>
         </span>
-      </button>
+      </button> -->
       <div
-        class="collapse navbar-collapse w-100 pt-3 pb-2 py-lg-0"
+        class="navbar-collapse w-100 pt-3 pb-2 py-lg-0"
         id="navigation"
       >
         <ul class="navbar-nav navbar-nav-hover ms-auto">
