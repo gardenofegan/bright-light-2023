@@ -55,6 +55,7 @@ onUnmounted(() => {
             <li>FCN Bank</li>
             <li>St Teresa K of C Council 14862</li>
             <li>Sub Station II</li>
+            <li>Signarama</li>
           </ul>
         </div>
         <div class="col-lg-3">
@@ -65,6 +66,8 @@ onUnmounted(() => {
           <ul>
             <li>Logan Supermart</li>
             <li>Robert's Auto Body</li>
+            <li>Civista</li>
+            <li>Ken Herbert Plumbing</li>
           </ul>
         </div>
         <div class="col-lg-3">

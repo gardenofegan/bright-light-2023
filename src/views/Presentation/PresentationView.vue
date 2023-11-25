@@ -67,6 +67,11 @@ onUnmounted(() => {
       <p class="lead">
         Experience this one of a kind holiday attraction and begin a new family tradition! Load up the kids, set a date with your loved one, or come by yourself and enjoy the sights and sounds of BRIGHT LIGHTS!
       </p>
+
+      <h4 class="mt-5">St. Nick at Bright Lights</h4>
+      <p class="lead">
+        St. Nick will be at Bright Lights December 1st - 3rd from <em>6PM - 8PM</em> in the St. Teresa church.  
+      </p>
     </div>
   </div>
   <DefaultFooter />

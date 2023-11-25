@@ -188,6 +188,14 @@ watch(
             </RouterLink>
           </li>
           <li class="nav-item dropdown dropdown-hover mx-2">
+            <RouterLink
+              :to="{ name: 'playlist' }"
+              class="nav-link d-flex cursor-pointer align-items-center"
+            >
+              <span>Playlist</span>
+            </RouterLink>
+          </li>
+          <li class="nav-item dropdown dropdown-hover mx-2">
             <a href="https://www.wesharegiving.org/app/giving/WeShare-1749?tab=home"
             target="_blank"
               class="nav-link d-flex cursor-pointer align-items-center"

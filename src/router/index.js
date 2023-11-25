@@ -3,6 +3,7 @@ import PresentationView from "../views/Presentation/PresentationView.vue";
 import AboutView from "../views/LandingPages/AboutUs/AboutView.vue";
 import SponsorView from "../views/SponsorView.vue";
 import Directions from "../views/Directions.vue";
+import PlaylistView from "../views/PlaylistView.vue";
 const router = createRouter({
   history: createWebHashHistory(),
   routes: [
@@ -20,6 +21,11 @@ const router = createRouter({
       path: "/sponsors",
       name: "sponsors",
       component: SponsorView,
+    },
+    {
+      path: "/playlist",
+      name: "playlist",
+      component: PlaylistView,
     },
     {
       path: "/directions",
