@@ -25,67 +25,21 @@ import DefaultFooter from "../examples/footers/FooterDefault.vue";
 
 // Data
 let currentSong = reactive({
-    title: "Angels",
+    title: "Entrance",
     artist: "Fr Meyer",
-    src: Angels,
-  });
+    src: Entrance1,
+  },);
 let currentIndex = ref(0);
 let isPlaying = ref(false);
-const listOfSongs = [
-  {
-    title: "Angels",
-    artist: "Fr Meyer",
-    src: Angels,
-  },
-  {
-    title: "Annunciation",
-    artist: "Fr Meyer",
-    src: Annunciation,
-  },
-  {
-    title: "Candles",
-    artist: "Fr Meyer",
-    src: Candles,
-  },
-  {
-    title: "Candy Canes",
-    artist: "Fr Meyer",
-    src: CandyCanes,
-  },
-  {
-    title: "Deer",
-    artist: "Fr Meyer",
-    src: Deer,
-  },
-  {
-    title: "End of Drive",
-    artist: "Fr Meyer",
-    src: EndofDrive,
-  },
-  {
+const listOfSongs = [{
     title: "Entrance",
     artist: "Fr Meyer",
     src: Entrance1,
   },
   {
-    title: "Entrance",
+    title: "Annunciation",
     artist: "Fr Meyer",
-    src: Entrance2,
-  },
-  {
-    title: "Gifts",
-    artist: "Fr Meyer",
-    src: Gifts,
-  },
-  {
-    title: "Jesus",
-    artist: "Fr Meyer",
-    src: Jesus,
-  },
-  {
-    title: "Snowmen",
-    artist: "Fr Meyer",
-    src: Snowmen,
+    src: Annunciation,
   },
   {
     title: "Soldiers",
@@ -98,9 +52,9 @@ const listOfSongs = [
     src: StNick,
   },
   {
-    title: "Stars",
+    title: "Wreaths",
     artist: "Fr Meyer",
-    src: Stars,
+    src: Wreaths,
   },
   {
     title: "Trees",
@@ -108,9 +62,45 @@ const listOfSongs = [
     src: Trees,
   },
   {
-    title: "Wreaths",
+    title: "Candles",
     artist: "Fr Meyer",
-    src: Wreaths,
+    src: Candles,
+  },
+  {
+    title: "Angels",
+    artist: "Fr Meyer",
+    src: Angels,
+  },
+  {
+    title: "Gifts",
+    artist: "Fr Meyer",
+    src: Gifts,
+  },
+  
+  {
+    title: "Candy Canes",
+    artist: "Fr Meyer",
+    src: CandyCanes,
+  },
+  {
+    title: "Deer",
+    artist: "Fr Meyer",
+    src: Deer,
+  },
+  {
+    title: "Snowmen",
+    artist: "Fr Meyer",
+    src: Snowmen,
+  },
+  {
+    title: "Jesus",
+    artist: "Fr Meyer",
+    src: Jesus,
+  },
+  {
+    title: "Tunnel of Lights",
+    artist: "Fr Meyer",
+    src: EndofDrive,
   },
 ];
 let player = reactive(new Audio());
