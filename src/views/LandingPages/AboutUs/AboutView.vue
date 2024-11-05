@@ -50,7 +50,10 @@ onUnmounted(() => {
     <Newsletter /> -->
     <div class="py-lg-4 px-lg-8 py-2 px-2">
       <p class="lead">
-        Bright Lights is open rain or shine every Friday, Saturday, and Sunday December 1st - January 6th from 6pm - 10pm.
+        Bright Lights is open rain or shine:  <br/><br/>
+        Friday through Sunday, November 29th - January 5th. <br/><br/>
+        Fridays &amp; Saturdays – 6pm - 10pm<br/>
+        Sundays – 6pm - 9pm.<br/>
       </p>
       <p class="lead">
         Restrooms are available for use at the entrance of the show
