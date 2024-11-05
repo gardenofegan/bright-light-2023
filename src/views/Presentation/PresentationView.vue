@@ -68,9 +68,20 @@ onUnmounted(() => {
         Experience this one of a kind holiday attraction and begin a new family tradition! Load up the kids, set a date with your loved one, or come by yourself and enjoy the sights and sounds of BRIGHT LIGHTS!
       </p>
 
+      
+      <h4 class="mt-5">Opening Night Concert</h4>
+      <p class="lead">
+        My Brother's Keeper will be performing in the St. Teresa church on <em>Friday, November 29th at 7PM</em>.  
+      </p>
+      
       <h4 class="mt-5">St. Nick at Bright Lights</h4>
       <p class="lead">
-        St. Nick will be at Bright Lights December 1st - 3rd from <em>6PM - 8PM</em> in the St. Teresa church.  
+        St. Nick will be at Bright Lights <em>Friday, December 6th</em> in the St. Teresa church.  Photos and treats will be available.  
+      </p>
+
+      <h4 class="mt-5">Feast of St. Lucy</h4>
+      <p class="lead">
+        Ars Café & Meeting House will be hosting a Feast of St. Lucy on <em>Friday, December 13th</em>.  Hot chocolate and cookies will be available.  
       </p>
     </div>
   </div>

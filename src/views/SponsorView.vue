@@ -53,9 +53,7 @@ onUnmounted(() => {
           <ul>
             <li>Badinghaus Construction & Trinity Design & Remodel</li>
             <li>FCN Bank</li>
-            <li>St Teresa K of C Council 14862</li>
-            <li>Sub Station II</li>
-            <li>Signarama</li>
+            <li>Kahny Printing</li>
           </ul>
         </div>
         <div class="col-lg-3">
@@ -65,36 +63,36 @@ onUnmounted(() => {
           </h3>
           <ul>
             <li>Logan Supermart</li>
-            <li>Robert's Auto Body</li>
-            <li>Civista</li>
-            <li>Ken Herbert Plumbing</li>
+            <li>Corcoran and Harnist Heating and Cooling</li>
           </ul>
         </div>
         <div class="col-lg-3">
           <h3><i class="fas fa-solid fa-certificate" style="color: #A7A7AD;"></i>
             Silver</h3>
           <ul>
-            <li>B.E.S. Racing Engines</li>
             <li>Fehrman Realty</li>
-            <li>Haag Ford</li>
-            <li>Los Primos</li>
-            <li>Roger Lake Trucking Inc.</li>
+            <li>Merrilees Trustworthy Supply</li>
+            <li>Signarama / Yesco</li>
             <li>St. Leon Tavern</li>
             <li>Suzanne E. Martini MD</li>
             <li>Whitaker Family</li>
+            <li>CalComm Indiana</li>
+            <li>Roger Lake Trucking Inc.</li>
           </ul>
         </div>
         <div class="col-lg-3">
           <h3><i class="fas fa-solid fa-certificate" style="color: #A77044;"></i>
             Bronze</h3>
           <ul>
-            <li>All Saints Ladies Sodality</li>
             <li>Bright Veterinary Clinic</li>
-            <li>Neidhard-Minges Funeral Home</li>
-            <li>Rick Niklas, Interstate Insurance Agency</li>
+            <li>Ohio Valley Screenprinting</li>
+            <li>St. Teresa Ladies Group</li>
+            <li>B.E.S. Racing Engines</li>
+            <li>Gillman Home Center - Aurora</li>
+            <li>Harrison Building and Loan</li>
+            <li>L'Burg Drinks & More</li>
             <li>St. Leon Properties LLC</li>
-            <li>The Friendship State Bank</li>
-            <li>Subway - St. Leon, Bright, Milan, Aurora</li>
+            <li>At the Barn Winery</li>
           </ul>
         </div>
       </div>
