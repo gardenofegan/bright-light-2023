@@ -54,6 +54,7 @@ onUnmounted(() => {
             <li>Badinghaus Construction & Trinity Design & Remodel</li>
             <li>FCN Bank</li>
             <li>Kahny Printing</li>
+            <li>St. Teresa K of C Council 14862</li>
           </ul>
         </div>
         <div class="col-lg-3">
@@ -64,6 +65,7 @@ onUnmounted(() => {
           <ul>
             <li>Logan Supermart</li>
             <li>Corcoran and Harnist Heating and Cooling</li>
+            <li>Ken Herbert Plumbing</li>
           </ul>
         </div>
         <div class="col-lg-3">
@@ -78,6 +80,7 @@ onUnmounted(() => {
             <li>Whitaker Family</li>
             <li>CalComm Indiana</li>
             <li>Roger Lake Trucking Inc.</li>
+            <li>Powell Equipment Services</li>
           </ul>
         </div>
         <div class="col-lg-3">
@@ -93,6 +96,7 @@ onUnmounted(() => {
             <li>L'Burg Drinks & More</li>
             <li>St. Leon Properties LLC</li>
             <li>At the Barn Winery</li>
+            <li>All Saints Ladies Sodality</li>
           </ul>
         </div>
       </div>
