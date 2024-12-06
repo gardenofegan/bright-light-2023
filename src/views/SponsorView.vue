@@ -66,6 +66,7 @@ onUnmounted(() => {
             <li>Logan Supermart</li>
             <li>Corcoran and Harnist Heating and Cooling</li>
             <li>Ken Herbert Plumbing</li>
+            <li>Civista Charitable Foundation</li>
           </ul>
         </div>
         <div class="col-lg-3">
