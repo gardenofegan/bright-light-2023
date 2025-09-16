@@ -67,12 +67,6 @@ onUnmounted(() => {
       <p class="lead">
         Experience this one of a kind holiday attraction and begin a new family tradition! Load up the kids, set a date with your loved one, or come by yourself and enjoy the sights and sounds of BRIGHT LIGHTS!
       </p>
-
-      
-      <h4 class="mt-5">Opening Night Concert</h4>
-      <p class="lead">
-        My Brother's Keeper will be performing in the St. Teresa church on <em>Friday, November 29th at 7PM</em>.  
-      </p>
       
       <h4 class="mt-5">St. Nick at Bright Lights</h4>
       <p class="lead">
@@ -83,6 +77,19 @@ onUnmounted(() => {
       <p class="lead">
         Ars Café & Meeting House will be hosting a Feast of St. Lucy on <em>Friday, December 13th</em>.  Hot chocolate and cookies will be available.  
       </p>
+
+      <h4 class="mt-5">CSO Concert</h4>
+      <p class="lead">
+        The Cincinnati Symphony Orchestra will be playing in the St. Teresa Churh on <em>December 19th at 7pm</em>.  
+      </p>
+
+      <h4 class="mt-5">My Brother's Keeper Concert</h4>
+      <p class="lead">
+        My Brother's Keeper will returning for another performance this year <em>December 28th at 7pm</em>.  They will be performing in the St. Teresa church.  
+      </p>
+
+      
+
     </div>
   </div>
   <DefaultFooter />
