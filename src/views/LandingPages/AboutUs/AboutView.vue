@@ -53,8 +53,17 @@ onUnmounted(() => {
         Bright Lights is open rain or shine:  <br/><br/>
         Friday through Sunday, November 28th - January 4th. <br/><br/>
         Fridays &amp; Saturdays – 6pm - 10pm<br/>
-        Sundays – 6pm - 9pm.<br/>
+        Sundays – 6pm - 9pm.<br/><br/>
+        <strong>Special Dates:</strong><br/>
+        December 8 (Feast of Our Lady of Guadalupe): 6:00–9:00 PM
+        <br/>
+        December 24 (Christmas Eve): 6:00 PM–Midnight
+        <br/>
+        December 25 (Christmas Day): 6:00–10:00 PM
+        <br/>
+        January 1 (New Year’s Day): 6:00–10:00 PM<br/><br/>
       </p>
+
       <p class="lead">
         Restrooms are available for use at the entrance of the show
       </p>

@@ -67,27 +67,43 @@ onUnmounted(() => {
       <p class="lead">
         Experience this one of a kind holiday attraction and begin a new family tradition! Load up the kids, set a date with your loved one, or come by yourself and enjoy the sights and sounds of BRIGHT LIGHTS!
       </p>
+      <p class="lead">
+        Celebrate the season with these joyful, faith-filled events! All are free to attend, and free-will donations are gratefully accepted to help keep the lights shining bright.
+      </p>
+
+      <h4 class="mt-5"> Opening Night: My Brother’s Keeper Concert</h4>
+      <p class="lead">
+        Friday, November 28th | 6:30 PM | St. Teresa Church
+        <br/><br/>
+        Kick off the Bright Lights season with the high-energy bluegrass sound of My Brother’s Keeper! Back by popular demand, this talented band brings powerful harmonies, heartfelt lyrics, and a night full of faith-filled fun for all ages.
+        <br/><br/>
+      
+      </p>
+
       
       <h4 class="mt-5">St. Nick at Bright Lights</h4>
       <p class="lead">
-        St. Nick will be at Bright Lights <em>Friday, December 6th</em> in the St. Teresa church.  Photos and treats will be available.  
+        Saturday, December 6 | 6:00–8:00 PM | St. Teresa Church
+        <br/><br/>
+        Bring the whole family to meet St. Nick! Enjoy photos, treats for the kids, and smiles all around as you celebrate the joy of Advent.
+        <br/><br/>
       </p>
 
       <h4 class="mt-5">Feast of St. Lucy</h4>
       <p class="lead">
-        Ars Café & Meeting House will be hosting a Feast of St. Lucy on <em>Friday, December 13th</em>.  Hot chocolate and cookies will be available.  
+        Saturday, December 13 | 6:00–8:00 PM | Ars Café & Meeting House
+        <br/><br/>
+        Celebrate the Feast of St. Lucy, whose name means “light.” Gather with friends for a cozy evening of hot chocolate, cookies, and community as we honor this beautiful saint during the season of light.
       </p>
 
-      <h4 class="mt-5">CSO Concert</h4>
+      <h4 class="mt-5">Cincinnati Symphony Orchestra Concert</h4>
       <p class="lead">
-        The Cincinnati Symphony Orchestra will be playing in the St. Teresa Churh on <em>December 19th at 7pm</em>.  
+        Friday, December 19 | 6:30 PM | St. Teresa Church
+        <br/><br/>
+        Enjoy an unforgettable evening of Christmas music performed by members of the Cincinnati Symphony Orchestra. Let the inspiring sounds of the season fill your heart with peace and joy beneath the glow of Bright Lights.
       </p>
 
-      <h4 class="mt-5">My Brother's Keeper Concert</h4>
-      <p class="lead">
-        My Brother's Keeper will returning for another performance this year <em>December 28th at 7pm</em>.  They will be performing in the St. Teresa church.  
-      </p>
-
+      
       
 
     </div>

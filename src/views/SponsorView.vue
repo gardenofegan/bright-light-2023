@@ -50,38 +50,36 @@ onUnmounted(() => {
             <i class="fas fa-solid fa-certificate" style="color: #e5e4e2;"></i>
             Platinum
           </h3>
-          <ul>
+          <!-- <ul>
             <li>Badinghaus Construction & Trinity Design & Remodel</li>
             <li>FCN Bank</li>
             <li>Kahny Printing</li>
             <li>St. Teresa K of C Council 14862</li>
-          </ul>
+          </ul> -->
         </div>
         <div class="col-lg-3">
           <h3>
             <i class="fas fa-solid fa-certificate" style="color: #FEE101;"></i>
             Gold
           </h3>
-          <ul>
+          <!-- <ul>
             <li>Logan Supermart</li>
             <li>Corcoran and Harnist Heating and Cooling</li>
             <li>Ken Herbert Plumbing</li>
             <li>Civista Charitable Foundation</li>
-          </ul>
+          </ul> -->
         </div>
         <div class="col-lg-3">
           <h3><i class="fas fa-solid fa-certificate" style="color: #A7A7AD;"></i>
             Silver</h3>
           <ul>
+            <li>B.E.S. Racing Engines</li>
             <li>Fehrman Realty</li>
-            <li>Merrilees Trustworthy Supply</li>
-            <li>Signarama / Yesco</li>
+            <li>Ohio Valley Screenprinting</li>
+            <li>Powell Equipment Services</li>
+            <li>Roger Lake Trucking Inc.</li>
             <li>St. Leon Tavern</li>
             <li>Suzanne E. Martini MD</li>
-            <li>Whitaker Family</li>
-            <li>CalComm Indiana</li>
-            <li>Roger Lake Trucking Inc.</li>
-            <li>Powell Equipment Services</li>
           </ul>
         </div>
         <div class="col-lg-3">
@@ -89,15 +87,8 @@ onUnmounted(() => {
             Bronze</h3>
           <ul>
             <li>Bright Veterinary Clinic</li>
-            <li>Ohio Valley Screenprinting</li>
-            <li>St. Teresa Ladies Group</li>
-            <li>B.E.S. Racing Engines</li>
-            <li>Gillman Home Center - Aurora</li>
-            <li>Harrison Building and Loan</li>
-            <li>L'Burg Drinks & More</li>
             <li>St. Leon Properties LLC</li>
-            <li>At the Barn Winery</li>
-            <li>All Saints Ladies Sodality</li>
+            <li>The Friendship State Bank</li>
           </ul>
         </div>
       </div>
