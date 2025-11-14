@@ -54,12 +54,10 @@ onUnmounted(() => {
         <div class="col-lg-6">
           <h3>Hours</h3>
           <p class="lead">
-            Friday & Saturday: 6pm - 10pm
-            <br/>
-            Sundays: 6pm - 9pm
+            Friday, Saturday & Sunday: 6pm - 10pm
           </p>
           <p class="lead">
-            November 29th - January 5th
+            November 28th - January 4th
           </p>
         </div>
       </div>
