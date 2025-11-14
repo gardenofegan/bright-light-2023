@@ -53,6 +53,7 @@ onUnmounted(() => {
           <ul>
             <li>Badinghaus Construction & Trinity Design & Remodel</li>
             <li>St. Teresa K of C Council 14862</li>
+            <li>Ken Herbert Plumbing and Reading Heating & Air</li>
           </ul>
         </div>
         <div class="col-lg-3">
