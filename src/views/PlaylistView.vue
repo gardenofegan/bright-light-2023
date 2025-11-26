@@ -16,6 +16,9 @@ import StNick from './../assets/audio/Bright Lights St. Nick.mp3';
 import Stars from './../assets/audio/Bright Lights Stars.mp3';
 import Trees from './../assets/audio/Bright Lights Trees.mp3';
 import Wreaths from './../assets/audio/Bright Lights Wreaths.mp3';
+import TwoFifty from './../assets/audio/250th-Anniv-Audio.mp3';
+import TwelveDays from './../assets/audio/12-Days-of-Christmas-Audio.mp3' 
+
 import { reactive, ref } from "vue";
 
 //example components
@@ -98,9 +101,19 @@ const listOfSongs = [{
     src: Jesus,
   },
   {
+    title: "12 Days of Christmas",
+    artist: "Fr Meyer",
+    src: TwelveDays,
+  },
+  {
     title: "Tunnel of Lights",
     artist: "Fr Meyer",
     src: EndofDrive,
+  },
+  {
+    title: "United States 250th Anniversary",
+    artist: "Fr Meyer",
+    src: TwoFifty,
   },
 ];
 let player = reactive(new Audio());
