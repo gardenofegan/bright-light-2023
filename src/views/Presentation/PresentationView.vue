@@ -87,14 +87,7 @@ onUnmounted(() => {
         <br/><br/>
         Bring the whole family to meet St. Nick! Enjoy photos, treats for the kids, and smiles all around as you celebrate the joy of Advent.
         <br/><br/>
-      </p>
-
-      <h4 class="mt-5">Feast of St. Lucy</h4>
-      <p class="lead">
-        Saturday, December 13 | 6:00–8:00 PM | Ars Café & Meeting House
-        <br/><br/>
-        Celebrate the Feast of St. Lucy, whose name means “light.” Gather with friends for a cozy evening of hot chocolate, cookies, and community as we honor this beautiful saint during the season of light.
-      </p>
+      </p> 
 
       <h4 class="mt-5">Cincinnati Symphony Orchestra Concert</h4>
       <p class="lead">
