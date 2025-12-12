@@ -88,6 +88,13 @@ onUnmounted(() => {
         Bring the whole family to meet St. Nick! Enjoy photos, treats for the kids, and smiles all around as you celebrate the joy of Advent.
         <br/><br/>
       </p> 
+
+       <h4 class="mt-5">Cincinnati Symphony Orchestra Quartet Concert</h4>
+      <p class="lead">
+        Sunday, December 28 | 5:30 PM | St. Teresa Church
+        <br/><br/>
+        Enjoy an unforgettable evening of Christmas music performed by members of the Cincinnati Symphony Orchestra. Let the inspiring sounds of the season fill your heart with peace and joy beneath the glow of Bright Lights.
+      </p>
     </div>
   </div>
   <DefaultFooter />
