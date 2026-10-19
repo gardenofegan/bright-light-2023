@@ -51,9 +51,9 @@ onUnmounted(() => {
             Platinum
           </h3>
           <ul>
-            <li>Badinghaus Construction & Trinity Design & Remodel</li>
-            <li>St. Teresa K of C Council 14862</li>
-            <li>Ken Herbert Plumbing and Reading Heating & Air</li>
+            <li>Badinghaus Construction &amp; Trinity Design &amp; Remodel</li>
+            <li>FCN Bank</li>
+            <li>Kahny Printing</li>
           </ul>
         </div>
         <div class="col-lg-3">
@@ -62,7 +62,7 @@ onUnmounted(() => {
             Gold
           </h3>
           <ul>
-            <li>Corcoran and Harnist Heating and Cooling</li>
+            <li>B.E.S. Racing Engines</li>
             <li>Civista Charitable Foundation</li>
           </ul>
         </div>
@@ -70,25 +70,19 @@ onUnmounted(() => {
           <h3><i class="fas fa-solid fa-certificate" style="color: #A7A7AD;"></i>
             Silver</h3>
           <ul>
-            <li>B.E.S. Racing Engines</li>
-            <li>Fehrman Realty</li>
+            <li>Bright Veterinary Clinic</li>
+            <li>Merrilees Hardware &amp; Supply</li>
             <li>Ohio Valley Screenprinting</li>
             <li>Powell Equipment Services</li>
             <li>Roger Lake Trucking Inc.</li>
-            <li>St. Leon Tavern</li>
             <li>Suzanne E. Martini MD</li>
-            <li>Merrilees Hardware & Supply</li>
+            <li>The Friendship State Bank</li>
           </ul>
         </div>
         <div class="col-lg-3">
           <h3><i class="fas fa-solid fa-certificate" style="color: #A77044;"></i>
             Bronze</h3>
           <ul>
-            <li>Bright Veterinary Clinic</li>
-            <li>St. Leon Properties LLC</li>
-            <li>The Friendship State Bank</li>
-            <li>St. Teresa Ladies Group</li>
-            <li>At the Barn Winery</li>
           </ul>
         </div>
       </div>

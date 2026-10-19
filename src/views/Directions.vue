@@ -45,21 +45,30 @@ onUnmounted(() => {
   <div class="card card-body shadow-xl mx-3 mx-md-4 mt-n6">
     <div class="py-lg-4 px-lg-8 py-2 px-2">
       <div class="row pb-6">
-        <div class="col-lg-6">
+        <div class="col-lg-4">
           <h3>Address</h3>
           <p class="lead">
             23345 Gavin Ln<br/>Lawrenceburg, IN<br/>47025
           </p>
         </div>
-        <div class="col-lg-6">
+        <div class="col-lg-8">
           <h3>Hours</h3>
           <p class="lead">
-            Friday & Saturday: 6pm - 10pm
+            Friday &amp; Saturday: 6pm - 10pm
             <br/>
             Sundays: 6pm - 9pm
           </p>
           <p class="lead">
-            November 28th - January 4th
+            November 27th - January 3rd
+          </p>
+          <p class="lead">
+            <strong>Special Dates &amp; Extended Hours:</strong><br/>
+            Tues, Dec 8 (Immaculate Conception – Mass 5:30pm): 6pm - 9pm<br/>
+            Mon, Dec 21 – Wed, Dec 23 (Week of Christmas): 6pm - 9pm<br/>
+            Thurs, Dec 24 (Christmas Eve): 6pm - Midnight<br/>
+            Fri, Dec 25 (Christmas Day): 6pm - 10pm<br/>
+            Thurs, Dec 31 (New Year’s Eve) &amp; Fri, Jan 1 (New Year’s Day): 6pm - 10pm<br/>
+            Sun, Jan 3 (Closing Night): 6pm - 9pm<br/>
           </p>
         </div>
       </div>

@@ -51,17 +51,23 @@ onUnmounted(() => {
     <div class="py-lg-4 px-lg-8 py-2 px-2">
       <p class="lead">
         Bright Lights is open rain or shine:  <br/><br/>
-        Friday through Sunday, November 28th - January 4th. <br/><br/>
+        Friday through Sunday, November 27th - January 3rd. <br/><br/>
         Fridays &amp; Saturdays – 6pm - 10pm<br/>
         Sundays – 6pm - 9pm.<br/><br/>
-        <strong>Special Dates:</strong><br/>
-        December 8 (Feast of Our Lady of Guadalupe): 6:00–9:00 PM
+        <strong>Special Dates &amp; Extended Hours:</strong><br/>
+        Tuesday, December 8 (Feast of the Immaculate Conception – Mass at 5:30 PM): 6:00–9:00 PM
         <br/>
-        December 24 (Christmas Eve): 6:00 PM–Midnight
+        Monday, December 21 – Wednesday, December 23 (Week of Christmas): 6:00–9:00 PM
         <br/>
-        December 25 (Christmas Day): 6:00–10:00 PM
+        Thursday, December 24 (Christmas Eve): 6:00 PM–Midnight
         <br/>
-        January 1 (New Year’s Day): 6:00–10:00 PM<br/><br/>
+        Friday, December 25 (Christmas Day): 6:00–10:00 PM
+        <br/>
+        Thursday, December 31 (New Year’s Eve): 6:00–10:00 PM
+        <br/>
+        Friday, January 1 (New Year’s Day): 6:00–10:00 PM
+        <br/>
+        Sunday, January 3 (Closing Night): 6:00–9:00 PM<br/><br/>
       </p>
 
       <p class="lead">
@@ -75,7 +81,7 @@ onUnmounted(() => {
         Our Story
       </h2>
       <p class="lead">
-        St. Teresa Parish was founded in the year 2,000 as a way to minister and serve the people in Bright, IN. Our large property and facilities have a story that speaks of generosity, community and joy!
+        St. Teresa Parish was founded in the year 2000 as a way to minister and serve the people in Bright, IN. Our large property and facilities have a story that speaks of generosity, community and joy!
       </p>
       <p class="lead">
         Recently a conversation began around inviting people onto our beautiful property to experience joy, hope and the message of Christ- this Bright Lights was born.

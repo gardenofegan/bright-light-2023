@@ -73,7 +73,7 @@ onUnmounted(() => {
 
       <h4 class="mt-5"> Opening Night: My Brother’s Keeper Concert</h4>
       <p class="lead">
-        Friday, November 28th | 6:30 PM | St. Teresa Church
+        Friday, November 27th | 6:00 PM | St. Teresa Church
         <br/><br/>
         Kick off the Bright Lights season with the high-energy bluegrass sound of My Brother’s Keeper! Back by popular demand, this talented band brings powerful harmonies, heartfelt lyrics, and a night full of faith-filled fun for all ages.
         <br/><br/>
@@ -83,15 +83,15 @@ onUnmounted(() => {
       
       <h4 class="mt-5">St. Nick at Bright Lights</h4>
       <p class="lead">
-        Saturday, December 6 | 6:00–8:00 PM | St. Teresa Church
+        Sunday, December 6 | 6:00–8:00 PM | St. Teresa Church Entry
         <br/><br/>
         Bring the whole family to meet St. Nick! Enjoy photos, treats for the kids, and smiles all around as you celebrate the joy of Advent.
         <br/><br/>
       </p> 
 
-       <h4 class="mt-5">Cincinnati Symphony Orchestra Quartet Concert</h4>
+       <h4 class="mt-5">CSO Ensemble Christmas Concert</h4>
       <p class="lead">
-        Sunday, December 28 | 5:30 PM | St. Teresa Church
+        Sunday, December 27 | 5:00 PM | St. Teresa Church
         <br/><br/>
         Enjoy an unforgettable evening of Christmas music performed by members of the Cincinnati Symphony Orchestra. Let the inspiring sounds of the season fill your heart with peace and joy beneath the glow of Bright Lights.
       </p>
