@@ -71,9 +71,6 @@ onUnmounted(() => {
       </p>
 
       <p class="lead">
-        Restrooms are available for use at the entrance of the show
-      </p>
-      <p class="lead">
         For your safety, please do not exit your vehicle while driving through this experience
       </p>
       <hr/>
