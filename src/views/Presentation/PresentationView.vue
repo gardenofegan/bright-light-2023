@@ -80,15 +80,6 @@ onUnmounted(() => {
       
       </p>
 
-      
-      <h4 class="mt-5">St. Nick at Bright Lights</h4>
-      <p class="lead">
-        Sunday, December 6 | 6:00–8:00 PM | St. Teresa Church Entry
-        <br/><br/>
-        Bring the whole family to meet St. Nick! Enjoy photos, treats for the kids, and smiles all around as you celebrate the joy of Advent.
-        <br/><br/>
-      </p> 
-
        <h4 class="mt-5">CSO Ensemble Christmas Concert</h4>
       <p class="lead">
         Sunday, December 27 | 5:00 PM | St. Teresa Church
