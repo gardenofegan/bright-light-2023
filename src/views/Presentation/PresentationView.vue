@@ -73,7 +73,7 @@ onUnmounted(() => {
 
       <h4 class="mt-5"> Opening Night: My Brother’s Keeper Concert</h4>
       <p class="lead">
-        Friday, November 27th | 6:00 PM | St. Teresa Church
+        Friday, November 27th | 6:30 PM | St. Teresa Church
         <br/><br/>
         Kick off the Bright Lights season with the high-energy bluegrass sound of My Brother’s Keeper! Back by popular demand, this talented band brings powerful harmonies, heartfelt lyrics, and a night full of faith-filled fun for all ages.
         <br/><br/>
